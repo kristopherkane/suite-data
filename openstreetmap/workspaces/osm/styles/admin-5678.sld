@@ -23,8 +23,8 @@
           <sld:MaxScaleDenominator>200000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#800080</sld:CssParameter>
-              <sld:CssParameter name="stroke-opacity">0.3</sld:CssParameter>
+              <sld:CssParameter name="stroke">#66FF66</sld:CssParameter>
+              <sld:CssParameter name="stroke-opacity">0.7</sld:CssParameter>
               <sld:CssParameter name="stroke-width">1.5</sld:CssParameter>
               <sld:CssParameter name="stroke-dasharray">5.0 2.0</sld:CssParameter>
             </sld:Stroke>
@@ -40,8 +40,8 @@
           <sld:MaxScaleDenominator>400000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#800080</sld:CssParameter>
-              <sld:CssParameter name="stroke-opacity">0.3</sld:CssParameter>
+              <sld:CssParameter name="stroke">#66FF66</sld:CssParameter>
+              <sld:CssParameter name="stroke-opacity">0.7</sld:CssParameter>
               <sld:CssParameter name="stroke-width">2.0</sld:CssParameter>
               <sld:CssParameter name="stroke-dasharray">6.0 3.0 2.0 3.0 2.0 3.0</sld:CssParameter>
             </sld:Stroke>
@@ -57,8 +57,8 @@
           <sld:MaxScaleDenominator>400000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#800080</sld:CssParameter>
-              <sld:CssParameter name="stroke-opacity">0.3</sld:CssParameter>
+              <sld:CssParameter name="stroke">#66FF66</sld:CssParameter>
+              <sld:CssParameter name="stroke-opacity">0.7</sld:CssParameter>
               <sld:CssParameter name="stroke-width">2.0</sld:CssParameter>
               <sld:CssParameter name="stroke-dasharray">6.0 3.0 2.0 3.0</sld:CssParameter>
             </sld:Stroke>
